@@ -100,7 +100,7 @@ has changed:
   - `margin` to `auto` (centers our element)
   - `font-family` to `"Helvetica Neue"`
   - `background` to `white`
-  - `padding` to `30px` (creates an invisible space around the element)
+  - `padding` to `30px(creates an invisible space around the element)
 - Set the element with the id of `#main-header` to a `font-size` of `22px`
 - Set the elements with the class of `.perspective-questions` to a `font-style`
   of `italic`
